@@ -1,7 +1,19 @@
-# CoffeeBid
+<h1 align="center">
+  :scroll: CoffeeBid Repository :scroll:	
+</h1>
 
+**CoffeeBid** is a revolutionary marketplace platform that aims to transform the marketing of coffee products, benefiting both coffee farmers and buyers. This repository contains the source code and documentation for the CoffeeBid application.
 
-CoffeeBid is a revolutionary marketplace platform that aims to transform the marketing of coffee products, benefiting both coffee farmers and buyers. This repository contains the source code and documentation for the CoffeeBid application.
+# Team ID : C23-PS130
+Welcome to the CofeeBid App Repository! This repository contains the code, datasets, and other resources for CoffeeBid App.
+
+## :man_astronaut:	This is our Members
+* (ML) M265DSX2516 – Hadad Karsa Nur Iman – Muria Kudus University
+* (ML) M320DSX0343 – Syariful Musthofa – PGRI Semarang University  
+* (ML)  M265DSX0030 – Dewa Putra Haryono – Muria Kudus University 
+* (CC)  C265DSX0910 – Novri Lukman Zyarif – Muria Kudus University
+* (CC) C360DSX1639 – Muhammad Faqih Madani – Telkom University 
+* (MD) A320DSX1184 – Gus Amiq Dian Mufti – PGRI Semarang University
 
 ## Key Features
 - Direct Connection: CoffeeBid enables coffee farmers and bidders to connect directly, eliminating intermediaries and fostering a fair trade environment.
